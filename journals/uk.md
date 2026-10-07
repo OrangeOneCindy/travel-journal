@@ -53,7 +53,6 @@
 
 ![我们去玩了扔斧子，看着简单其实挺难的](<https://drive.google.com/file/d/1QGV2ER0XElBSKCkTMjdwglw8zwZBlegm/view?usp=sharing>){width=100% align=center layout=grid}
 ![一起在Old Fire House吃的披萨，喝了cider](<https://drive.google.com/file/d/1dlKcKpFp91kZR9FQgExCAE5fhBimnKxY/view?usp=sharing>){width=100% align=center layout=grid}
-![在英国瘦了点嘿嘿](<https://drive.google.com/file/d/1roJYKTSpryIzPQ3colbvXkTA-eI-ZKvx/view?usp=sharing>){width=100% align=center layout=grid}
 
 9月份我搬到了学生公寓，虽然花了高达💷259每周的租金，但是获得了无比优秀的居住体验。房间里有洗碗机，我第一次用洗碗机就被这个东西深深打动了，我的房子里以后一定要装一个！！！我还可以去小健身房锻炼，多注意保持身体健康。
 
@@ -79,17 +78,17 @@
 ## Dartmoor
 暑假的时候我还去了达特穆尔森林公园体验徒步，呼吸了新鲜空气，看到了好多黑面羊。因为是一个人去的，所以没有走很长的徒步路线，来回总共8公里左右。风景还是很好的。
 
-![小溪](<https://drive.google.com/file/d/1SCQhnhV7pDGSgJxw2JvgBAzDw9U2qO6V/view?usp=sharing>){width=100% align=center}
-![吃草的羊](<https://drive.google.com/file/d/1UnPFiE_issidT9FcDyUwKSjUwA3ryEJY/view?usp=sharing>){width=100% align=center}
-![穿过小树林进入牧场前的风景](<https://drive.google.com/file/d/1itjMoTMRhBfB40WBXcn1UvfV0Qqar_MV/view?usp=sharing>){width=100% align=center}
-![笔直树枝](<https://drive.google.com/file/d/1xBHIy_HkYzDMvtN6ZeL0EBbI48pxw46s/view?usp=sharing>){width=100% align=center}
+![小溪](<https://drive.google.com/file/d/1SCQhnhV7pDGSgJxw2JvgBAzDw9U2qO6V/view?usp=sharing>){width=100% align=center layout=grid}
+![吃草的羊](<https://drive.google.com/file/d/1UnPFiE_issidT9FcDyUwKSjUwA3ryEJY/view?usp=sharing>){width=100% align=center layout=grid}
+![穿过小树林进入牧场前的风景](<https://drive.google.com/file/d/1itjMoTMRhBfB40WBXcn1UvfV0Qqar_MV/view?usp=sharing>){width=100% align=center layout=grid}
+
+
 
 ## Exmouth
 这是一个海边小镇。离Exeter非常近，坐绿皮火车半小时就到了。我去吃了海边冰激淋，抓拍了海鸟还有海边游玩的人。那天上午阳光很好，海水也比较清，到中午就变阴天了。
 
 ![小广场](<https://drive.google.com/file/d/14QPcTn3Q58CL71yw-Jrfe-1yHz7FtFmA/view?usp=sharing,%20https://drive.google.com/file/d/1666OV3C-j9eZsYf690dEBE5LrQkUpmDF/view?usp=sharing,%20https://drive.google.com/file/d/182llM6yOVDRMIg5l5EK0OVtsQ6ESZpvS/view?usp=sharing>){width=100% align=center}
 ![大海鸥](<https://drive.google.com/file/d/1MTb4uh97ted765xCb0I9lfaDs_Lvja9B/view?usp=sharing>){width=100% align=center}
-![Cool~~](<https://drive.google.com/file/d/1WvIf-WHd8FBQWHyzRJ7zNiE6tmZH4Ni6/view?usp=sharing>){width=100% align=center}
 ![美味冰激凌](<https://drive.google.com/file/d/182llM6yOVDRMIg5l5EK0OVtsQ6ESZpvS/view?usp=sharing>){width=100% align=center}
 
 海岸线也是很美丽的！
