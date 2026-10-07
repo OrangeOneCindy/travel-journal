@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10263b">
+  <title>关于我 · 我的旅行记录</title>
+  <link rel="stylesheet" href="assets/site.css">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2310263b'/%3E%3Cpath d='M14 42h36M18 39l10-17 7 11 5-8 8 14' fill='none' stroke='%23fff' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到主要内容</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html">我的旅行记录</a>
+      <nav class="folder-nav" aria-label="页面导航">
+        <a class="folder-tab" href="index.html">首页</a>
+        <a class="folder-tab" href="china.html">祖国</a>
+        <a class="folder-tab" href="europe.html">欧洲</a>
+      </nav>
+      <!-- author-menu:start -->
+      <div class="author-control">
+        <button class="author-toggle" type="button" aria-label="作者菜单" aria-expanded="false" aria-controls="author-panel">
+          <img class="author-image" src="assets/avatar-default.svg" alt="作者头像" width="42" height="42">
+        </button>
+        <section class="author-panel" id="author-panel" aria-label="作者资料" hidden>
+          <button class="avatar-edit" type="button" aria-label="上传作者头像" title="点击更换头像">
+            <img class="author-image" src="assets/avatar-default.svg" alt="作者头像" width="88" height="88">
+            <span class="avatar-caption">更换头像</span>
+          </button>
+          <input id="avatar-file" type="file" accept="image/png,image/jpeg,image/webp,image/gif" hidden>
+          <label class="sr-only" for="author-name">作者名字</label>
+          <input class="author-name" id="author-name" type="text" maxlength="40" placeholder="填写名字" autocomplete="off">
+          <label class="sr-only" for="author-signature">个性签名</label>
+          <textarea class="author-signature" id="author-signature" maxlength="120" rows="2" placeholder="写一句个性签名…"></textarea>
+          <a class="about-button" href="about.html">关于我自己</a>
+          <p class="author-status" role="status" aria-live="polite"></p>
+        </section>
+      </div>
+      <!-- author-menu:end -->
+    </div>
+  </header>
+  <main class="page-main" id="main" aria-label="关于我"></main>
+  <script src="assets/author.js" defer></script>
+</body>
+</html>

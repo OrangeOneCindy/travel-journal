@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10263b">
+  <meta name="description" content="巴塞罗那游记。">
+  <title>巴塞罗那游记 · 我的旅行记录</title>
+  <link rel="stylesheet" href="assets/site.css">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2310263b'/%3E%3Cpath d='M14 42h36M18 39l10-17 7 11 5-8 8 14' fill='none' stroke='%23fff' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到主要内容</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html">我的旅行记录</a>
+      <nav class="folder-nav" aria-label="页面导航">
+        <a class="folder-tab" href="index.html">首页</a>
+        <a class="folder-tab" href="china.html">祖国</a>
+        <a class="folder-tab active" href="europe.html">欧洲</a>
+      </nav>
+      <!-- author-menu:start -->
+      <div class="author-control">
+        <button class="author-toggle" type="button" aria-label="作者菜单" aria-expanded="false" aria-controls="author-panel">
+          <img class="author-image" src="assets/avatar-default.svg" alt="作者头像" width="42" height="42">
+        </button>
+        <section class="author-panel" id="author-panel" aria-label="作者资料" hidden>
+          <button class="avatar-edit" type="button" aria-label="上传作者头像" title="点击更换头像">
+            <img class="author-image" src="assets/avatar-default.svg" alt="作者头像" width="88" height="88">
+            <span class="avatar-caption">更换头像</span>
+          </button>
+          <input id="avatar-file" type="file" accept="image/png,image/jpeg,image/webp,image/gif" hidden>
+          <label class="sr-only" for="author-name">作者名字</label>
+          <input class="author-name" id="author-name" type="text" maxlength="40" placeholder="填写名字" autocomplete="off">
+          <label class="sr-only" for="author-signature">个性签名</label>
+          <textarea class="author-signature" id="author-signature" maxlength="120" rows="2" placeholder="写一句个性签名…"></textarea>
+          <a class="about-button" href="about.html">关于我自己</a>
+          <p class="author-status" role="status" aria-live="polite"></p>
+        </section>
+      </div>
+      <!-- author-menu:end -->
+    </div>
+  </header>
+  <main class="page-main" id="main">
+    <article class="page-container trip-page">
+      <a class="back-link" href="europe.html">返回欧洲地图</a>
+      <h1 class="page-title">巴塞罗那游记</h1>
+      <!-- journal-editor:start -->
+      <section class="journal-editor" data-journal="barcelona" aria-label="游记 Markdown 编辑器">
+        <div class="journal-entry-actions">
+          <button class="journal-edit-toggle" type="button" aria-expanded="false" aria-controls="journal-controls journal-source journal-help" hidden>编辑</button>
+        </div>
+        <div class="journal-controls" id="journal-controls" hidden>
+        <div class="journal-toolbar" hidden>
+          <div class="journal-modes" role="group" aria-label="显示方式">
+            <button type="button" data-mode="edit" aria-pressed="false">正文编辑</button>
+            <button type="button" data-mode="split" aria-pressed="false">对照预览</button>
+            <button type="button" data-mode="preview" aria-pressed="true">预览</button>
+          </div>
+          <div class="journal-actions">
+            <button type="button" class="journal-download">下载 .md</button>
+            <button type="button" class="journal-save" disabled>保存</button>
+          </div>
+        </div>
+        <div class="journal-writing-tools" hidden>
+          <span>Markdown</span>
+          <button type="button" data-insert="link">插入链接</button>
+          <button type="button" data-insert="image">插入图片</button>
+          <button type="button" class="journal-photo-toggle" aria-expanded="false" aria-controls="journal-photo-tools">图片排版</button>
+          <span class="journal-status" role="status" aria-live="polite">正在读取游记…</span>
+        </div>
+        <form class="journal-drive-tools" hidden>
+          <label for="journal-drive-link">云盘共享链接</label>
+          <input id="journal-drive-link" type="url" placeholder="粘贴 Google Drive 照片、视频或文件夹的共享链接" autocomplete="off">
+          <button type="submit">插入预览</button>
+          <p class="journal-drive-error" role="status" aria-live="polite"></p>
+        </form>
+        <form class="journal-photo-tools" id="journal-photo-tools" hidden>
+          <div class="journal-photo-heading"><span>图片排版</span><button type="button" class="journal-photo-close" aria-label="收起图片排版">收起</button></div>
+          <label for="journal-photo-links">图片链接（每行一个，最多 4 张）</label>
+          <textarea id="journal-photo-links" rows="3" placeholder="Google Drive 单个文件链接或图片直链&#10;也可以写：照片说明 | 链接"></textarea>
+          <div class="journal-photo-options">
+            <div><label for="journal-photo-caption">照片说明</label><input id="journal-photo-caption" type="text" maxlength="200" placeholder="可留空"></div>
+            <div><label for="journal-photo-width">图片 / 图片组宽度</label><select id="journal-photo-width"><option value="100">100% · 铺满正文</option><option value="75">75% · 较大</option><option value="50">50% · 半宽</option><option value="35">35% · 小图</option></select></div>
+            <div><label for="journal-photo-align">位置</label><select id="journal-photo-align"><option value="center">居中</option><option value="left">靠左</option><option value="right">靠右</option><option value="wrap-left">左侧图片 · 文字环绕</option><option value="wrap-right">右侧图片 · 文字环绕</option></select></div>
+            <div><label for="journal-photo-arrangement">组合方式</label><select id="journal-photo-arrangement"><option value="auto">自动识别横竖 · 完整画面</option><option value="grid">等宽并排 · 手动布局</option></select></div>
+          </div>
+          <p class="journal-photo-tip">默认按横竖比例自动组合：一竖两横可拼成贴页，多张错落排列，不裁剪照片。先在正文中放好光标，再插入；选中原有图片 Markdown 后插入，可替换该段。环绕图片后的文字会排在图片旁边。</p>
+          <button type="submit">插入排版图片</button>
+          <p class="journal-photo-error" role="status" aria-live="polite"></p>
+        </form>
+        </div>
+        <div class="journal-panes" data-mode="preview">
+          <div class="journal-source" id="journal-source" hidden>
+            <label class="sr-only" for="journal-markdown">游记 Markdown 正文</label>
+            <textarea id="journal-markdown" maxlength="200000" spellcheck="false" disabled placeholder="在这里写游记。&#10;&#10;## 小标题&#10;&#10;写下这次旅行的记录。&#10;&#10;![照片说明](图片直链)&#10;&#10;[查看照片](Google Drive 文件夹链接)"></textarea>
+          </div>
+          <div class="journal-preview markdown-body" aria-label="游记预览"><p class="empty-entry">正在读取游记…</p></div>
+        </div>
+        <details class="journal-help" id="journal-help" hidden>
+          <summary>Markdown 写法</summary>
+          <div class="journal-help-body">
+            <p><code>## 小标题</code> · <code>**加粗**</code> · <code>- 列表项</code> · 空一行分段</p>
+            <p>图片：<code>![照片说明](图片直链)</code>；链接：<code>[查看照片](链接地址)</code></p>
+            <p>点击“图片排版”可选择大小、位置与并排照片。手写大小：<code>![说明](链接){width=50% align=center}</code>；文字环绕：<code>align=wrap-right</code> 或 <code>align=wrap-left</code>。连续图片之间只换行、不空行，会组成并排图片组；第一张的宽度与位置决定整组排版。</p>
+            <p>默认自动识别照片方向，保持完整画面。一竖两横会组合成贴页，较多照片使用错落布局；照片未加载时先显示普通网格。可在“组合方式”选择“等宽并排”，对应参数 <code>layout=grid</code>。自动排版不跨正文段落，也不改变原有宽度、位置或 Markdown 内容。</p>
+            <p>Google Drive 共享链接可粘贴到上方输入框，或在正文中单独占一段。单个文件尝试显示为手账照片卡片，点击“展开原文件 / 播放视频”可在本页查看原文件；文件夹保留云盘缩略图网格。句子中的普通链接仍保留为链接。</p>
+            <p>照片可以写成 <code>![照片说明](Google Drive 单个文件共享链接)</code>，即使与文字放在同一段也能生成带说明的照片卡片。云盘缩略图不保证可用，加载失败时可展开原文件。预览受权限及网络限制，网站不更改分享权限、不下载照片到网站目录。文件夹不会自动拆成照片卡片，如需逐张排版，请贴单个文件链接。</p>
+            <p>停止输入后自动保存到本地网站文件，也可点击“保存”或按 Ctrl / ⌘ + S。对照预览在窄屏上下显示。</p>
+          </div>
+        </details>
+        <p class="journal-notice" role="status" aria-live="polite"></p>
+        <noscript><p>阅读或编辑 Markdown 需要启用 JavaScript。</p></noscript>
+      </section>
+      <!-- journal-editor:end -->
+    </article>
+  </main>
+  <script src="assets/author.js" defer></script>
+  <!-- journal-scripts:start -->
+  <script src="assets/vendor/marked.js" defer></script>
+  <script src="assets/vendor/purify.js" defer></script>
+  <script src="assets/drive-preview.js" defer></script>
+  <script src="assets/photo-layout.js" defer></script>
+  <script src="assets/journal.js" defer></script>
+  <!-- journal-scripts:end -->
+</body>
+</html>
