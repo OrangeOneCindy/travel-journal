@@ -98,6 +98,75 @@
 ![](<https://drive.google.com/file/d/1skxTclmjLFvY-1a2hX76C0rfDMlKUo_a/view?usp=sharing>){width=100% align=center layout=grid}
 ![](<https://drive.google.com/file/d/1jq85ZxlZ2fU50INhEXbzp1trwzoBG__3/view?usp=sharing>){width=100% align=center layout=grid}
 
+## London
+除了周边小镇，我和我的小伙伴还去了伦敦。因为需要办理申根签，我们正好在伦敦玩两天。从Exeter坐大巴到伦敦维多利亚汽车站大概需要5小时。高速途中还遇到临时停车，我听广播说有人从高架桥跳下来了，所以前面堵车了十几分钟，正在处理事故。不过也没晚点很久，早上出发，大概中午我就到了。
+
+![路过了Bristol，高速上风景还挺好的](<https://drive.google.com/file/d/1Gmv2_nyTwxW7da5530tlQAfAAH68yfc3/view?usp=sharing>){width=100% align=center layout=auto}
+
+从维多利亚车站下车，沿路就可以一条线参观白金汉宫、伦敦塔和伦敦眼。顺路还走了唐人街，特拉法尔加广场等等。
+
+![白金汉宫的小门](<https://drive.google.com/file/d/10oGO_2uxbSYfNqXvmu73sqghmtmngiBL/view?usp=sharing>){width=100% align=center layout=auto}
+![巡逻的高帽士兵（这种的感觉表演成分比较多，因为院内安保都是荷枪实弹的）](<https://drive.google.com/file/d/18eDvdPy22D_5imYx5OLJT3zUDxI4oTMg/view?usp=sharing>){width=100% align=center layout=auto}
+![白金汉宫外的巨大女王雕像。金色的应该是胜利女神](<https://drive.google.com/file/d/1LZ53BTB7IiwvcJ50eE98946sNTf-GRQ6/view?usp=sharing>){width=100% align=center layout=auto}
+![白金汉宫大门](<https://drive.google.com/file/d/1lG7vS8OBfxaVatctsavsAjJ-bhPViaLE/view?usp=sharing>){width=100% align=center layout=auto}
+
+伦敦塔和伦敦眼在伦敦桥的两边，周边是议会中心和广场。伦敦温斯敏斯特区的建筑基本上是金色白色组合的，应该是因为这里属于政治中心，颜色还挺庄重的。
+
+![这个构图还可以吧](<https://drive.google.com/file/d/1-jMdvLqv150TSoAoJlFwfZj50oY6BZwy/view?usp=sharing>){width=100% align=center layout=auto}
+![巡逻的武直](<https://drive.google.com/file/d/11S80j2tR7wsOziFhQdb0eU-0_8V__8XJ/view?usp=sharing>){width=100% align=center layout=auto}
+![伦敦塔和议会广场挨得很近](<https://drive.google.com/file/d/1AD1rWbUHIsKaUWJRd3gjcCkEtUV3un1t/view?usp=sharing>){width=100% align=center layout=auto}
+![金灿灿的（我™直接信仰之跃）](<https://drive.google.com/file/d/1cgfr4hg7McNeJ9jBBonJ4QL5eWEtwxrB/view?usp=sharing>){width=100% align=center layout=auto}
+
+我们顺路还来的唐宁街10号，但是那天不能进去参观。
+![“英国首相谢绝见客”](<https://drive.google.com/file/d/1_RYwi6Z9flEcgtV-hJxbqKeUTTCZzkII/view?usp=sharing>){width=100% align=center layout=auto}
+
+![这地铁站又新又旧的](<https://drive.google.com/file/d/12JZ7zMK5_n42UcTRW6hoAoAP-uooLshJ/view?usp=sharing>){width=100% align=center layout=auto}
+![我把伦敦眼捏在手里](<https://drive.google.com/file/d/1Mf4po609KeiPyOKf5pUUATGv9FQeBHQj/view?usp=sharing>){width=100% align=center layout=auto}
+![泰晤士河岸](<https://drive.google.com/file/d/1OZ66VkT2yH-2PrCUGgBbmYGXPRCcUEtC/view?usp=sharing>){width=100% align=center layout=auto}
+
+刚来英国，我的消费习惯还处在花英镑要在脑子里转换人民币的阶段。唐人街上有很多小吃，给我馋到了，但是真的好贵。不过我和小伙伴吃了据说“世界排名第9”的汉堡，味道挺好的，料非常足。
+![挂满灯笼的唐人街](<https://drive.google.com/file/d/1x1QJ9pPPhgtl2e3JW6UibFEa4P-80t4j/view?usp=sharing>){width=100% align=center layout=auto}
+![世界排名第9，难以想象第1是啥样](<https://drive.google.com/file/d/1VFh34_WAXBmyzQ5IbOfYZ5m1zP37RBH2/view?usp=drive_link>){width=100% align=center layout=auto}
+
+大英博物馆那是来英必去的地方之一了。看到了很多不同国家不同文明的文物（从哪来的那我不说），尤其是我们中华文化的历史碎片（物理意义上的）非常的美丽。
+
+![这个我忘记叫什么了](<https://drive.google.com/file/d/1K8p4sE-51WNHrvgmKNCCtwNUySh3lOo3/view?usp=sharing>){width=100% align=center layout=auto}
+![我们山西的木雕，瞅瞅锯成啥样了](<https://drive.google.com/file/d/1OMz1E-QN4kBzoQALtQ5GM2_n3V2q0HRN/view?usp=sharing>){width=100% align=center layout=auto}
+![龙纹照壁，也是打断带到英国的](<https://drive.google.com/file/d/1TsYC32mXRw-ncj_LfCNeo9O3v06sYlD2/view?usp=sharing>){width=100% align=center layout=auto}
+![（“弑佛”）观音头像](<https://drive.google.com/file/d/1Uv9Z-y8NCmJyWNSJwr-SiHmmh7ElI6vj/view?usp=sharing>){width=100% align=center layout=auto}
+
+还有一些漂亮的预期瓷器雕刻等工艺品的展览，从古到今的都有。
+
+
+
+![嘉靖谕令](<https://drive.google.com/file/d/1YWquwSk2g0vnolwrRanMkRyKGjHqlTuZ/view?usp=sharing>){width=100% align=center layout=auto}
+![贝母装饰的镜子](<https://drive.google.com/file/d/1p82Dz_Br5rvxrfsrMgpkZp6H1c50uGwg/view?usp=sharing>){width=100% align=center layout=auto}
+![玉雕](<https://drive.google.com/file/d/1qIVFASdDKCqGuzhDEc561itF9820YsU3/view?usp=sharing>){width=100% align=center layout=auto}
+![巧夺天工的玉碗](<https://drive.google.com/file/d/1zdH4xrjqkwWxgk1tS1WJH-oyBi0w7F_J/view?usp=sharing>){width=100% align=center layout=auto}
+
+我们还看了埃及的木乃伊，还有一些中亚文明留下的器物。最后还有英国他们自己或者说欧洲文化复兴后的一些产物。
+
+![打开的木乃伊。木乃伊有6层，现在这个状态是第4层了，快剥出干尸了。（有的干尸确实展示出来了）](<https://drive.google.com/file/d/1-pyRi_zH3My6QCHxm3A45dQIUZUTVno_/view?usp=sharing>){width=100% align=center layout=auto}
+![棋盘](<https://drive.google.com/file/d/14c6ZxJ6CE4_X-WpA9L6SZ-H9As_JAGKl/view?usp=sharing>){width=100% align=center layout=auto}
+![楔形文字的石碑（汉谟拉比法典吗？）](<https://drive.google.com/file/d/1lQVgHntcYoepXEsyj5xJZ895mk8Djw4e/view?usp=sharing>){width=100% align=center layout=auto}
+![面具不错](<https://drive.google.com/file/d/1uO6FlbCQ2rbIq2bQ7PK2LuHQeBem_Yoy/view?usp=sharing>){width=100% align=center layout=auto}
+
+从大英博物馆出来，我们去了一家印度餐厅。味道确实不错，也很干净。
+
+![这个沙拉深得我心，就是简单的坚果碎，西兰花，柠檬汁](<https://drive.google.com/file/d/1mhmDLB4E_Fvj6Iz54-kYaVYLEYNrZ87E/view?usp=sharing>){width=100% align=center layout=auto}
+
+办签证的那天出了很多状况，还因为我直接walk in了VIP多花了100英镑（早知道我还上网蹲什么slot，直接去就完了）。 不愉快的经历就简单带过，因为那天我们还去打卡了夏洛克的早餐！在《神探夏洛克》这部剧里，卷福楼下的早餐店非常的让我向往。其实Baker Street 221B的地址有两个，一个是靠近市中心的福尔摩斯博物馆（真的贝克街），但另一个藏在小巷子里的才是拍摄地。我特地在Google地图上查了，这个拍摄地楼下是正经英国早餐店。我点了经典的英国早餐和夏洛克卷，其实没有那么难吃，除了培根猪腥味重一点其他都挺好的。
+
+![店主展示的拍摄时的样子，以及和演员的合照](<https://drive.google.com/file/d/10Rn4H0aWvsPB2_qwHXUtiyhlv9P3kWkc/view?usp=sharing>){width=100% align=center layout=auto}
+![外景](<https://drive.google.com/file/d/1Q_CizeY5ZcxeJRXAxRTmG_D0_oVxZCiX/view?usp=sharing>){width=100% align=center layout=auto}
+![餐厅内部](<https://drive.google.com/file/d/1TWxSyVC0xw9SJTDXJWpL-wyGUDlsSl6G/view?usp=sharing>){width=100% align=center layout=auto}
+![经典英式早餐](<https://drive.google.com/file/d/1rs8IZRjB0F_LayMpsYlE3scwoDdzGnZI/view?usp=sharing>){width=100% align=center layout=auto}
+
+
+
+
+
+
 
 
 
